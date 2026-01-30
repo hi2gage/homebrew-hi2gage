@@ -1,6 +1,6 @@
 cask "buildsignal" do
-  version "0.0.5"
-  sha256 "62f9cdae5fed818902180b3a602ef60f978f785580ded4cbe2c7a684fd64b527"
+  version "0.0.6"
+  sha256 "8dba80c325ccee55401ea46be9cdee0e796900c32443757db2478c94fd4282fe"
 
   url "https://github.com/hi2gage/BuildSignal/releases/download/v#{version}/BuildSignal-#{version}.zip"
   name "BuildSignal"
